@@ -4517,3 +4517,6 @@ wooflix.tv##+js(aopw, Adcash)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26533
 pngitem.com##+js(aopw, window.onload)
+
+! sitebar ads
+dict.leo.org###adv-sitebar
